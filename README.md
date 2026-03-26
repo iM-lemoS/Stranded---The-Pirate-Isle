@@ -34,7 +34,7 @@ The entire visual identity of the game's interface was designed externally using
 
 ## 🚀 How to Play / Run the Project
 
-1. Download the build using the link in the "Build Link" file.
+1. Download the build here: [Download](https://drive.google.com/drive/folders/1aKVYSPIYQOOdfcPfDBix0OJYK_M9hRq3?usp=sharing)
 
 ## 📸 Visual Demonstration
 
