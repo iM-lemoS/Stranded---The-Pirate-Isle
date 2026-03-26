@@ -34,7 +34,7 @@ The entire visual identity of the game's interface was designed externally using
 
 ## 🚀 How to Play / Run the Project
 
-1. Download the files on "Build" and run the file "AAV"
+1. Download the build using the link in the "Build Link" file.
 
 ## 📸 Visual Demonstration
 
