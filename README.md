@@ -38,10 +38,8 @@ The entire visual identity of the game's interface was designed externally using
 
 ## 📸 Visual Demonstration
 
-| Level 1 Screenshots |
 | <img src="Gameplay/Isle.png" width="200"/> | <img src="Gameplay/Key.png" width="200"/> | <img src="Gameplay/Level 1 Final.png" width="200"/> |
 
-| Level 2 Screenshots |
 | <img src="Gameplay/Tunnel.png" width="200"/> | <img src="Gameplay/Boat.png" width="200"/> | <img src="Gameplay/NPC.png" width="200"/> |
 
 ---
